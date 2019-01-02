@@ -4,43 +4,28 @@ Data Analytics
 
 SESSION 1: INTRODUCTION
 
-Assignment 1.1
+Assignment 1.2
 
  
 Problem Statement
 
-1. Please mention true or false for the below statements:
+11.	How many ways are there to call a function in R?
 
-a)	Prescriptive Analytics is used to predict the future outcomes 
+Answer: 
+3 ways – call () , do.call () & recall ()  
 
-b)	Base R packages are installed automatically 
+2.	Is the below statement true?
 
-2. What is Recycling of elements in a vector?
+•	The lazy evaluation of a function means, the argument is evaluated only if it is used inside the body of the function. 
 
-3. Give an example of recycling of elements.
+Answer:  True
 
-ANSWERS
+3.	Mention true or false for below statements:
 
-a) False
-
-b)	False
-
-2.  Recycling occurs when vector arithmetic is performed on multiple vectors of different sizes. R takes the shorter vector and repeats them until it becomes long enough to match the longer one.
-When applying an operation to two vectors that requires them to be the same length, R automatically recycles, or repeats, elements of the shorter one, until it is long enough to match the longer Vector. 
-
-3. Example 1:
-
-Suppose we have two Vectors c(1,2,4) , c(6,0,9,10,13), where the first one is shorter with only 3 elements. Now if we sum these two, we will get a warning message as follows.
-> c(1,2,4) + c(6,0,9,10,13)
-[1]  7  2 13 11 15
-Warning message:
-In c(1, 2, 4) + c(6, 0, 9, 10, 13) :  longer object length is not a multiple of shorter object length
-
-Here R , Sum those Vectors by Recycling or repeating the elements in shorter one, until it is long enough to match the longer one as follows..
-
-> c(1,2,4,1,2) + c(6,0,9,10,13)
-[1]  7  2 13 11 15
-
+a.	Insights driven from descriptive analytics is not meaningful. - False
+b.	The number of values in each Elements of a list, should be equal. - True
+c.	The datasets are not stored in memory of the computer using R. - True
+d.	Data frames and matrices are two dimensional however the array is multidimensional. - True 
 
 
 
