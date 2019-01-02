@@ -23,8 +23,11 @@ Answer:  True
 3.	Mention true or false for below statements:
 
 a.	Insights driven from descriptive analytics is not meaningful. - False
+
 b.	The number of values in each Elements of a list, should be equal. - True
+
 c.	The datasets are not stored in memory of the computer using R. - True
+
 d.	Data frames and matrices are two dimensional however the array is multidimensional. - True 
 
 
