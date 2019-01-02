@@ -1,5 +1,5 @@
-# Acadgild_Data-Analytics_Assignments
-Data Analytics
+# Acadgild_Data-Analytics_Session1_Assignment 1.2
+
 
 
 SESSION 1: INTRODUCTION
