@@ -8,9 +8,11 @@ Assignment 1.1
 
  
 Problem Statement
+
 1. Please mention true or false for the below statements:
 
 a)	Prescriptive Analytics is used to predict the future outcomes - True
+
 b)	Base R packages are installed automatically - False
 
 2. What is Recycling of elements in a vector?
